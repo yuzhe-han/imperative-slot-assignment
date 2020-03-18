@@ -58,7 +58,7 @@ This has been created by cut-and-paste from https://w3ctag.github.io/security-qu
 
 15. Does this specification have a "Security Considerations" and "Privacy Considerations" section?
 
-    No.
+    Yes. https://github.com/yuzhe-han/webcomponents/blob/gh-pages/proposals/Imperative-Shadow-DOM-Distribution-API.md#security-and-privacy-considerations
 
 16. Does this specification allow downgrading default security characteristics?
 
